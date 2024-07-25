@@ -12,16 +12,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:0 group-title="Nasional 720p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:0 group-title="Nasional 720p" tvg-logo="https://static.rctiplus.id/media//300//files/fta_rcti/Channel_Logo/MNCTV.png",Mnctv (R+)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:0 group-title="Nasional 720p" tvg-logo="https://static.rctiplus.id/media//300//files/fta_rcti/Channel_Logo/RCTI.png",Rcti (R+)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:0 group-title="Nasional 720p" tvg-logo="https://static.rctiplus.id/media//300//files/fta_rcti/Channel_Logo/GTV.png",GTV (R+)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:0 group-title="Nasional 720p" tvg-logo="https://static.rctiplus.id/media//300//files/fta_rcti/Channel_Logo/iNews.png",Inews (R+)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:0 group-title="Nasional 720p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTykLeP8toFo6beuTsdoh_7G1wUnKI81G8YA&usqp=CAU",Indonesiana
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
